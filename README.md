@@ -1,1 +1,1 @@
-# techGuia-layout
+# Layout do blog TechGuia
